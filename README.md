@@ -4,24 +4,6 @@ This repo is an official implementation of ["Memory Enhanced Global-Local Aggreg
 
 Besides, this repository also implements several other algorithms like [FGFA](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.html) and [RDN](https://arxiv.org/abs/1908.09511). Any new methods are welcomed. Hoping for your pull request! We hope this repository would help further research in the field of video object detection and beyond. :)
 
-## Citing MEGA
-Please cite our paper in your publications if it helps your research:
-```
-@inproceedings{chen20mega,
-    Author = {Chen, Yihong and Cao, Yue and Hu, Han and Wang, Liwei},
-    Title = {Memory Enhanced Global-Local Aggregation for Video Object Detection},
-    Conference = {CVPR},
-    Year = {2020}
-}
-```
-
-## Updates
-
-- Add motion-IoU specific AP evaluation code. Only available for ImageNet VID dataset. (19/06/2020)
-- Demo for visualization added (Support image folder and video). (17/06/2020)
-- Results of ResNet-50 backbone added. (13/04/2020)
-- Code and pretrained weights for [Deep Feature Flow](https://arxiv.org/abs/1611.07715) released. (30/03/2020)
-
 ## Main Results
 
 Pretrained models are now available at [Baidu](https://pan.baidu.com/s/1qjIAD3ohaJO8EF1mZ4nLEg) (code: neck) and Google Drive.
