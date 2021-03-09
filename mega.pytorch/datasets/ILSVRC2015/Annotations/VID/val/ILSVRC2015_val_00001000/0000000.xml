@@ -1,0 +1,23 @@
+<annotation>
+  <folder>ILSVRC_2017</folder>
+  <filename>0000000</filename>
+  <source>
+    <database>ILSVRC_2017</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+  </size>
+  <object>
+    <trackid>0</trackid>
+    <name>boat1</name>
+    <bndbox>
+      <xmin>260</xmin>
+      <ymin>61</ymin>
+      <xmax>283</xmax>
+      <ymax>86</ymax>
+    </bndbox>
+    <occluded>1</occluded>
+    <generated>0</generated>
+  </object>
+</annotation>
